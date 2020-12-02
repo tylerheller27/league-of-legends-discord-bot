@@ -18,8 +18,8 @@ To look up a multiple players statistics type in discord chat * followed by a sp
 ---
 **Disclaimer**
 
-This bot requires your own Riot Games API key and Discord bot token which can be found at the following links.
-Riot Games: https://developer.riotgames.com/ 
+This bot requires your own Riot Games API key and Discord bot token which can be found at the following links.  
+Riot Games: https://developer.riotgames.com/  
 Discord: https://discord.com/developers/applications
   
 
