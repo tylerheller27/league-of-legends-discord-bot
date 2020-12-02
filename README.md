@@ -1,5 +1,5 @@
 # League of Legends Player Statistics Discord Bot
----
+
 
 **Purpose**  
 This Discord bot aims to consolidate popular functionality of 3rd party League of Legends statistics websites within the popular instant messaging application, Discord.
@@ -15,7 +15,9 @@ To look up a single players statistics type in discord chat + followed by a spac
 To look up a multiple players statistics type in discord chat * followed by a space then the content from champion select chat.  
 (see Example Output section down below for clarification).  
 
-**Does not include Riot api key or Discord Bot token**
+---
+**Disclaimer**
+
 This bot requires your own Riot Games API key and Discord bot token which can be found at the following links.
 Riot Games: https://developer.riotgames.com/ 
 Discord: https://discord.com/developers/applications
