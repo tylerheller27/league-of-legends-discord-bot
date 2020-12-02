@@ -11,8 +11,8 @@ This Discord bot that displays a player's statistics by typing their username in
 Player Statistics includes player rank, total games played and most played role.  
 
 
-To look up a single players statistics type in discord chat + followed by a space then their username.  
-To look up a multiple players statistics type in discord chat * followed by a space then the content from champion select chat.  
+To look up a single players statistics type in Discord chat + followed by a space then their username.  
+To look up a multiple players statistics type in Discord chat * followed by a space then the content from champion select chat.  
 (see Example Output section down below for clarification).  
 
 ---
