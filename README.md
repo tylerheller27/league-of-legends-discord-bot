@@ -3,7 +3,7 @@
 
 ---
 **Description**  
-Discrod bot that displays a player's statistics by typing their username in a discord server where the bot is located.  
+Discord bot that displays a player's statistics by typing their username in a discord server where the bot is located.  
 Player Statistics includes player rank, total games played and most played role.  
 
 
